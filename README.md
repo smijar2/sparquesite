@@ -1,2 +1,2 @@
-# sparquesite
-sparque static content
+# jewelry
+jewelry site

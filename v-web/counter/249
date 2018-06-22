@@ -1,0 +1,8 @@
+<applet code='counter' codebase='/v-web/counter'
+     width='90' height='20'>
+    <param name='counter' value='Counter'>
+    <param name='style' value='A'>
+    <param name='minsize' value='6'>
+    <param name='bgcolor' value='#FFFFFF'>
+    <param name='twoclicks' value='http://sparque.com'>
+</applet>
